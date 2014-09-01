@@ -13,5 +13,3 @@
 
 All projects tested in CodeBlocks Ide in ubuntu14.04
 
-All rights reserved
-Akash Lodha
