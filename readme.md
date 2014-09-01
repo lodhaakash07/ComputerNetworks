@@ -12,5 +12,5 @@
 	*Bit Stuffing
 
 
-###All rights reserved
-###Akash Lodha
+All rights reserved
+Akash Lodha
