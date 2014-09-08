@@ -63,14 +63,13 @@ void receiver(string data)
 	//lets remove the flag bits
 	data = data.substr(1,data.length()-2);
 	int len = data.length();
-	cout<<data<<endl;
 	for(int i=0;i<len-1;i++)
 		{
 		if(data[i]=='e' && (data[i+1] == 'f' || data[i+1] == 'e')){
 			string t = data.substr(0,i) ;
 			data = t +  data.substr(i+1,len-t.length()+2);
 			// Uncomment below statement to see how the stuffted byte is decoded - step by step
-			cout<<data<<endl;
+			//cout<<data<<endl;
 			len = data.length();
 			}
 		}
