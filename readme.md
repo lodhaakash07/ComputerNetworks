@@ -15,8 +15,6 @@
 - Selective repeat N ARQ
 
 **All projects tested in CodeBlocks Ide in ubuntu14.04**        
-
-######Akash Lodha  
-######Vit University
-######lodhaakash07@gmail.com
+==========================================================
+######Akash Lodha  ######Vit University  ######lodhaakash07@gmail.com
 
